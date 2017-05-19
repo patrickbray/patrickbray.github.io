@@ -1,9 +1,11 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 title: Patrick Bray 
 description: Java / JVM Developer
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: patrickbray
+github_username: patrickbray 
 markdown: kramdown
+repository: patrickbray.github.io 
 exclude:
   - Gemfile
   - Gemfile.lock
