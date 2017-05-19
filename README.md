@@ -1,6 +1,5 @@
-# Patrick Bray 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-- Linked-In
-- Stack Overflow
+## About Me
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="patrick-bray"><a class="LI-simple-link" href='https://au.linkedin.com/in/patrick-bray?trk=profile-badge'>Patrick Bray</a></div>
+I am a Java Developer 
