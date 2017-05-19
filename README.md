@@ -15,4 +15,4 @@ I am a Java Developer working mainly on Spring & Spring Boot Applications. I am 
 
 ## Background 
 
-My development background is primarily in the Finance Industry. With roles ranging from OTC Derivitive Trading to Billing Systems design & Development. 
+My development background is primarily in the Finance Industry. The projects I have been involved in range from OTC Derivative Trading to Billing Systems design & Development.
