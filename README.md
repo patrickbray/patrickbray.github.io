@@ -2,7 +2,7 @@
 
 I am a Java Developer working mainly on Spring & Spring Boot Applications. I am passionate about designing building and operating simple solutions to complex business problems.   
 
-[Patrick Bray - CV](https://github.com/patrickbray/patrickbray.github.io/raw/master/Patrick%20Bray%20-%20CV.pdf)
+[Patrick Bray - CV](Patrick%20Bray%20-%20CV.pdf)
 
 ## Technical Projects / Interests 
 
